@@ -1,0 +1,1 @@
+from functions.client_functions import guess_type_of_shooting
