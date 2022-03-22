@@ -1,1 +1,1 @@
-worker: python shooting_bot.py
+worker: python bot_run.bat
