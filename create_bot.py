@@ -4,8 +4,8 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 import os
 
 
-TOKEN = '5141468385:AAEis82dot0kanavhNHz_7cJC7Lqf6EGr4U'
-MANAGER_ID = '368234011'
+TOKEN = 'YOUR_TOKEN'
+MANAGER_ID = 'YOUR_MANAGER_ID'
 
 storage = MemoryStorage()
 manager_id = MANAGER_ID
